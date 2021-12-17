@@ -1,0 +1,8 @@
+configs
+data
+saved_ckpts
+saved_*
+*.pdf
+*.sh
+*.ipynb
+__pycache__
